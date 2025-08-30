@@ -5,7 +5,7 @@ public class Cinema {
     private String sala;
     private String horarioSessao;
     private int capacidade;
-    double preco;
+    private double preco;
     private ArrayList<String> ingressosVendido;
     private String[][] assentos;
 
